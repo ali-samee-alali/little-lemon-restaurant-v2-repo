@@ -1,7 +1,7 @@
 function Header () {
     return (
-        <header className="header">
-            <h1>Little Lemon</h1>
+        <header>
+            thus is header
         </header>
     )
 };
